@@ -1,2 +1,8 @@
 # Digital-Marketing-Analysis
-A data-driven communication strategy
+We propose a data-driven communication strategy developing:
+
+ - Email Engagement Model
+ - Customers Cluster Analysis
+ - Churn Prediction
+ 
+This project is developed in R Language and could be used as model for data-driven actions. 
