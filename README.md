@@ -1,3 +1,8 @@
+<p float="left">
+ <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/DS%20Logo.png" width = "500"/>
+ <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/Bicocca%20Logo.png" width = "100" align="right"/>
+</p>
+
 # Digital-Marketing-Analysis
 We propose a data-driven communication strategy developing:
 
