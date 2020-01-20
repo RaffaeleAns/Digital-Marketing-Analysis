@@ -4,6 +4,7 @@
 </p>
 
 # Digital-Marketing-Analysis
+This Project has been developed by me and [Lorenzo Pastore](https://github.com/LorenzoPastore).
 We propose a data-driven communication strategy developing:
 
  - Email Engagement Model
